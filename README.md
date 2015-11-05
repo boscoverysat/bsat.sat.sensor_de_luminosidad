@@ -7,7 +7,7 @@ Con objeto de determinar el índice de luminosidad que está recibiendo el saté
 ## Autoría y Licencia
 
 - Autor: **Dailos Rafael Díaz Lara** ( ddialar@gmail.com )
-- Fecha: **11/10/2015**
+- Fecha: **20/10/2015**
 - Versión: **1.0.0**
 - Licencia: [![Creaive Commons 4.0 logo](img/cc40.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
@@ -19,6 +19,10 @@ Con objeto de determinar el índice de luminosidad que está recibiendo el saté
 
 [instructables.com - BH1750 Digital Light Sensor by Mohannad Rawashdeh](http://www.instructables.com/id/BH1750-Digital-Light-Sensor/?ALLSTEPS)
 
-## Procedimiento
+## Contenido
 
-En desarrollo...
+Actualmente, este repositorio cuenta con el análisis y códigos de prueba para los siguientes sensores:
+
+[BH1750FVI](bh1750fvi/) - Sensor de luminosidad de 0 lx a 65535 lx mediante I2C.
+
+
